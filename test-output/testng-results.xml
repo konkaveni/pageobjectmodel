@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T14:13:17 CST" name="Page Object Model " finished-at="2023-12-04T14:13:39 CST" duration-ms="22789">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T14:13:17 CST" name="Login Test" finished-at="2023-12-04T14:13:18 CST" duration-ms="1032">
+      <class name="com.w2a.TestCases.LoginTest">
+        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.w2a.TestCases.LoginTest@36061cf3]" started-at="2023-12-04T14:13:17 CST" name="loginTest" data-provider="dp" finished-at="2023-12-04T14:13:18 CST" duration-ms="983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=veni@1983, runmode=y, username=konkaveni@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.w2a.TestCases.LoginTest -->
+    </test> <!-- Login Test -->
+    <test started-at="2023-12-04T14:13:18 CST" name="Create Account Test" finished-at="2023-12-04T14:13:39 CST" duration-ms="21479">
+      <class name="com.w2a.TestCases.LoginTest">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.TestCases.LoginTest@36061cf3]" started-at="2023-12-04T14:13:39 CST" name="tearDown" finished-at="2023-12-04T14:13:40 CST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.TestCases.LoginTest -->
+      <class name="com.w2a.TestCases.CreateAccountTest">
+        <test-method signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.w2a.TestCases.CreateAccountTest@3a175162]" started-at="2023-12-04T14:13:18 CST" name="createAccountTest" data-provider="dp" finished-at="2023-12-04T14:13:39 CST" duration-ms="21477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customername=Ravi}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+      </class> <!-- com.w2a.TestCases.CreateAccountTest -->
+    </test> <!-- Create Account Test -->
+  </suite> <!-- Page Object Model  -->
+</testng-results>

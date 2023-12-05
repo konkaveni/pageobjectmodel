@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 37.672 s <<< FAILURE! - in TestSuite
+loginTest(com.w2a.TestCases.LoginTest)  Time elapsed: 20.636 s  <<< FAILURE!
+java.lang.AssertionError: Failing the LoginTest
+	at com.w2a.TestCases.LoginTest.loginTest(LoginTest.java:22)
+
+createAccountTest(com.w2a.TestCases.CreateAccountTest)  Time elapsed: 10.613 s  <<< FAILURE!
+java.lang.AssertionError: Failing the Create Account Test
+	at com.w2a.TestCases.CreateAccountTest.createAccountTest(CreateAccountTest.java:24)
+

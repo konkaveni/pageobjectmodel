@@ -1,5 +1,14 @@
-04/12/2023 21.23.09 devpinoyLogger Config file Loaded!!!!
-04/12/2023 21.23.09 devpinoyLogger OR File Loaded!!!!
-04/12/2023 21.23.13 devpinoyLogger Chrome Browser Launched Successfully!!!!
-04/12/2023 21.23.15 devpinoyLogger Navigated to:https://www.zoho.com
-04/12/2023 21.23.17 devpinoyLogger clicking on an element:signin_XPATH
+05/12/2023 14.59.29 devpinoyLogger Config file Loaded!!!!
+05/12/2023 14.59.29 devpinoyLogger OR File Loaded!!!!
+05/12/2023 14.59.30 devpinoyLogger Chrome Browser Launched Successfully!!!!
+05/12/2023 14.59.32 devpinoyLogger Navigated to:https://www.zoho.com
+05/12/2023 14.59.33 devpinoyLogger clicking on an element:signin_XPATH
+05/12/2023 14.59.33 devpinoyLogger Typing in an element: email_ID  entered value as:konkaveni@gmail.com
+05/12/2023 14.59.33 devpinoyLogger clicking on an element:nextbtn_ID
+05/12/2023 14.59.33 devpinoyLogger Typing in an element: password_ID  entered value as:veni@1983
+05/12/2023 14.59.34 devpinoyLogger clicking on an element:nextbtn_ID
+05/12/2023 14.59.38 devpinoyLogger clicking on an element:CRMlink_XPATH
+05/12/2023 14.59.41 devpinoyLogger clicking on an element:CRMZoho_XPATH
+05/12/2023 14.59.41 devpinoyLogger clicking on an element:Accontstab_CSS
+05/12/2023 14.59.42 devpinoyLogger clicking on an element:CreateAccont_XPATH
+05/12/2023 14.59.43 devpinoyLogger Typing in an element: AccountName_XPATH  entered value as:Ravi
